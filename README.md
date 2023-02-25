@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sharanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanya-hareesh/)](https://www.linkedin.com/in/sharanya-hareesh/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sharanya-green)]()
+[![Website Badge](https://img.shields.io/badge/WebSite-Sharanya-green)](https://sharanyaharee.github.io/SharanyaProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sharanya-yellow)](https://stackoverflow.com/users/21240407/sharanya-hareesh)
 
 I am Sharanya Hareesh, a Web Designer and a Full Stack Developer, who is quietly confident, naturally curious and perpetually working on improving coding skills.
