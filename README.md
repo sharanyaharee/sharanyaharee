@@ -1,14 +1,12 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanya-hareesh/)](https://www.linkedin.com/in/sharanya-hareesh/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21240407/sharanya-hareesh)
+[![Linkedin Badge](https://img.shields.io/badge/-Sharanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanya-hareesh/)](https://www.linkedin.com/in/sharanya-hareesh/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Sharanya-green)]
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sharanya-yellow)](https://stackoverflow.com/users/21240407/sharanya-hareesh)
 
-I am Sharanya Hareesh, a Web Designer and a Full Stack Developer, who is quietly confident, naturally
-                        curious and perpetually working on improving coding skills.
-
-                        I design and code beautifully simple things, and I love what I do.
+I am Sharanya Hareesh, a Web Designer and a Full Stack Developer, who is quietly confident, naturally curious and perpetually working on improving coding skills.
+I design and code beautifully simple things, and I love what I do.
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
@@ -27,9 +25,7 @@ Languages and Tools:
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
     </a>
-    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" />
-    </a>
+    
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
     </a>
