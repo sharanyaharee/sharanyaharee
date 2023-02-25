@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21240407/sharanya-hareesh)
 
 I am Sharanya Hareesh, a Web Designer and a Full Stack Developer, who is quietly confident, naturally
-                        curious and perpetually working on improving coding skills.<br>
+                        curious and perpetually working on improving coding skills.
 
                         I design and code beautifully simple things, and I love what I do.
 
