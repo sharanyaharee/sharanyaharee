@@ -1,8 +1,6 @@
 ### Hi Developers 👋
 
 
-I am Sharanya Hareesh, a Web Designer and a Full Stack Developer, who is quietly confident, naturally curious and perpetually working on improving coding skills.
-I design and code beautifully simple things, and I love what I do.
 
 ![Visitor Count](https://profile-counter.glitch.me/sharanyaharee/count.svg)
 
