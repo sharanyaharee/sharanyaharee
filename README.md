@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 ![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]
+![Linkedin Badge](https://img.shields.io/badge/-Sharanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)
+![Website Badge](https://img.shields.io/badge/WebSite-Sharanya-green)
+![Website Badge](https://img.shields.io/badge/StackOverflow-Sharanya-yellow)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sharanyaharee/count.svg)
