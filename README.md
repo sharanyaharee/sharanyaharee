@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Sharanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanya-hareesh/)
+![Linkedin Badge](https://www.linkedin.com/in/sharanya-hareesh/)
 ![Website Badge](https://img.shields.io/badge/WebSite-Sharanya-green)
 ![Website Badge](https://img.shields.io/badge/StackOverflow-Sharanya-yellow)
 
