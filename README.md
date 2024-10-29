@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 <div>
-  I’m Sharanya, a Full Stack Developer focused on the MERN stack. I build scalable apps with a user-first approach, from e-commerce to dynamic web tools. Driven by curiosity and a love for clean code, I'm always eager to create impactful digital experiences. Let's connect!
+  I’m ###Sharanya, a Full Stack Developer focused on the MERN stack. I build scalable apps with a user-first approach, from e-commerce to dynamic web tools. Driven by curiosity and a love for clean code, I'm always eager to create impactful digital experiences. Let's connect!
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sharanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanya-hareesh/)](https://www.linkedin.com/in/sharanya-hareesh/)
