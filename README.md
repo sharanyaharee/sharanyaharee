@@ -1,12 +1,24 @@
 ### Hi Developers 👋
 <div>
-  I’m ### Sharanya, a Full Stack Developer focused on the MERN stack. I build scalable apps with a user-first approach, from e-commerce to dynamic web tools. Driven by curiosity and a love for clean code, I'm always eager to create impactful digital experiences. Let's connect!
+  I’m <b> Sharanya </b>, a Full Stack Developer focused on the MERN stack. I build scalable apps with a user-first approach, from e-commerce to dynamic web tools. Driven by curiosity and a love for clean code, I'm always eager to create impactful digital experiences. Let's connect!
 </div>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sharanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharanya-hareesh/)](https://www.linkedin.com/in/sharanya-hareesh/)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sharanyaharee/count.svg)
+
+🔭 I’m currently working on a real-time chat application and other exciting MERN projects to strengthen my skills in building interactive, scalable apps.
+🌱 I’m currently learning TypeScript and advanced JavaScript techniques to level up my frontend expertise.
+👯 I’m looking to collaborate on open-source projects in React and Node.js that prioritize user-centered experiences.
+👨‍💻 Check out my full-fledged eCommerce project: GitHub Repository.
+📫 How to reach me: sharu.sesh@gmail.com
+📄 Know more about me: LinkedIn Profile
+😄 Pronouns: She/Her
+⚡ Fun fact: I think coding is like solving a puzzle—each line brings you closer to the big picture!
+
+
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -65,17 +77,5 @@ Languages and Tools:
    
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
 
 -->
