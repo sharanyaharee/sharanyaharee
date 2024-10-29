@@ -9,14 +9,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/sharanyaharee/count.svg)
 
-🔭 I’m currently working on a real-time chat application and other exciting MERN projects to strengthen my skills in building interactive, scalable apps.
-🌱 I’m currently learning TypeScript and advanced JavaScript techniques to level up my frontend expertise.
-👯 I’m looking to collaborate on open-source projects in React and Node.js that prioritize user-centered experiences.
-👨‍💻 Check out my full-fledged eCommerce project: GitHub Repository.
-📫 How to reach me: sharu.sesh@gmail.com
-📄 Know more about me: LinkedIn Profile
-😄 Pronouns: She/Her
-⚡ Fun fact: I think coding is like solving a puzzle—each line brings you closer to the big picture!
+- 🔭 I’m currently working on a real-time chat application and other exciting MERN projects to strengthen my skills in building interactive, scalable apps.
+- 🌱 I’m currently learning TypeScript and advanced JavaScript techniques to level up my frontend expertise.
+- 👯 I’m looking to collaborate on open-source projects in React and Node.js that prioritize user-centered experiences.
+- 👨‍💻 Check out my full-fledged eCommerce project: [GitHub Repository](https://github.com/sharanyaharee/E-commerce-).
+- 📫 How to reach me: sharu.sesh@gmail.com
+- 📄 Know more about me: https://www.linkedin.com/in/sharanya-hareesh/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I think coding is like solving a puzzle—each line brings you closer to the big picture!
 
 
 
